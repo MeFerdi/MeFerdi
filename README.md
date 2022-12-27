@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ferdi_code
+- 👋 Hi, I’m @Ferdynand Odhiambo 
+- An enthuasiatic and motivated Front end developer 🏅🏅
 - 👀 I’m interested in Software development specializing in Front end development and Cloud computing
 - 🌱 I’m currently learning full stack software engineering at Alx and Holberton school 
 - 💞️ I’m looking to collaborate on hands-on projects in Front end and cloud engineering as well.
