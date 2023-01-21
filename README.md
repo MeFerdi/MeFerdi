@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ferdynand Odhiambo 
 - An enthuasiatic and motivated Front end developer 🏅🏅
-- 👀 I’m interested in Software development specializing in Front end development and Cloud computing
+- 👀 I’m interested in Full stack Software development specializing in Front end development and Cloud computing
 - 🌱 I’m currently learning full stack software engineering at Alx and Holberton school 
-- 💞️ I’m looking to collaborate on hands-on projects in Front end and cloud engineering as well.
+- 💞️ I’m looking to work and collaborate on hands-on projects in Front end and cloud engineering as well.
 
 - 📫 You can reach me through email: ferdinandodhis254@gmail.com 
 
