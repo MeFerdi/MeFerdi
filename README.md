@@ -5,6 +5,7 @@
 - 💞️ I’m looking to work and collaborate on hands-on projects in Front end and cloud engineering as well.
 
 - 📫 You can reach me through email: ferdinandodhis254@gmail.com 
+![<Twitter>](https://img.shields.io/badge/<Linkedin>-<Background Color>?style=for-the-badge&logo=<linkedin&logoColor=<Logo Color>)
 
 <!---
 MeFerdi/MeFerdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
