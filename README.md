@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **building PointaFam**
 
-- 🌱 I’m currently learning **Golang, Python and Javascript at 01 Talent and ALX Africa**
+- 🌱 I’m currently learning **Golang, Python and Javascript at Zone01 Kisumu and ALX Africa**
 
-- 📝 I regularly write articles on [DeVops, Linux and Software Testing](DeVops, Linux and Software Testing)
+- 📝 I  write articles on DeVops, Linux and Software Testing
 
-- 💬 Ask me about **C, Linux, Testing, and Go**
+- 💬 Ask me about **C, Linux, Testing, Python Go**
 
 - 📫 How to reach me **ferdinandodhis254@gmail.com**
 
