@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdynand Odhiambo</h1>
-<h3 align="center">A passionate Software and DeVops engineer aiming to build captivating software solutions to solve problems</h3>
+<h3 align="center">A Versatile Software developer aiming to build captivating software solutions to solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meferdi&label=Profile%20views&color=0e75b6&style=flat" alt="meferdi" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **building PointaFam**
 
-- 🌱 I’m currently learning **Golang, Python and Javascript at Zone01 Kisumu and ALX Africa**
+- 🌱 I’m currently learning **Golang, Python, Rust and Javascript at Zone01 Kisumu and ALX Africa**
 
-- 📝 I  write articles on DeVops, Linux and Software Testing
+- 📝 I  write articles on Web development and tech related subjects
 
-- 💬 Ask me about **C, Linux, Testing, Python Go**
+- 💬 Ask me about **C, Linux, Javascript, Python Go**
 
 - 📫 How to reach me **ferdinandodhis254@gmail.com**
 
