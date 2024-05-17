@@ -16,6 +16,7 @@
 - 📫 How to reach me **ferdinandodhis254@gmail.com**
 
 - ⚡ Fun fact **I love travelling**
+ <a href="https://app.daily.dev/ferdi_code"><img src="https://api.daily.dev/devcards/v2/ysCvO8WIbk2mawCRIF5Yn.png?r=7j2&type=default" width="356" alt="Ferdinand Odhiambo's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
