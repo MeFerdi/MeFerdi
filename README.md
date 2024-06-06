@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdynand Odhiambo</h1>
-<h3 align="center">A Software developer</h3>
+<h3 align="center">An Apprentice Software developer at Zone01 Kisumu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meferdi&label=Profile%20views&color=0e75b6&style=flat" alt="meferdi" /> </p>
 
