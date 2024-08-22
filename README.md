@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building PointaFam**
 
-- 🌱 I’m currently learning **Golang, Python, Rust and Javascript at Zone01 Kisumu and ALX Africa**
+- 🌱 I’m currently learning **Golang, Python, Rust and Javascript at Zone01 Kisumu**
 
 - 📝 I  write articles on Web development and tech related subjects
 
