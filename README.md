@@ -1,38 +1,43 @@
-<h1 align="center">Hi 👋, I'm Ferdynand Odhiambo</h1>
-<h3 align="center">An Apprentice Software developer at Zone01 Kisumu</h3>
+<details open=""><summary>Open profile</summary><p><br></p><div>  <div align="center"><img height="200" alt="https://imgur.com/a/g9SBSWA" src="https://i.imgur.com/BlWTAcj.jpeg">  </div>  <div align="center">      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hi 👋,Welcome+to+my+profile!;I'm Ferdynand Odhiambo" alt="Typing SVG"></a>  </div></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meferdi&label=Profile%20views&color=0e75b6&style=flat" alt="meferdi" /> </p>
+<!-- C-style info card -->
+<div align="center">
+<pre style="background: #1E1E1E; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace; color: #D4D4D4; box-shadow: 0 4px 8px rgba(0,0,0,0.3); max-width: 600px; margin: 20px auto;">
+<span style="color: #569CD6;">void</span> <span style="color: #DCDCAA;">life</span>(<span style="color: #569CD6;">void</span>) {
+  <span style="color: #DCDCAA;">printf</span>(<span style="color: #CE9178;">"A passionate <span style="color: #4EC9B0;">Full Stack Software Developer</span>\n"</span>);
+  <span style="color: #569CD6;">char</span> <span style="color: #9CDCFE;">currentlyLearning</span>[] = <span style="color: #CE9178;">"<span style="color: #B5CEA8;">Low Level Programming</span> | <span style="color: #C586C0;">Machine Learning and AI</span>"</span>;
+  <span style="color: #569CD6;">char</span> <span style="color: #9CDCFE;">AskMeAbout</span>[] = <span style="color: #CE9178;">"<span style="color: #3DC9B0;">Linux, C, ML & AI</span>"</span>;
+  <span style="color: #569CD6;">char</span> <span style="color: #9CDCFE;">ReachMeAt</span>[] = <span style="color: #CE9178;">"<span style="text-decoration: underline; color: #6A9955;">oferdinanddev112@gmail.com</span>"</span>;
+  <span style="color: #569CD6;">char</span> <span style="color: #9CDCFE;">FunFact</span>[] = <span style="color: #CE9178;">"I think about puzzles of life everytime"</span>;
+}
+</pre>
+</div>
 
-<p align="left"> <a href="https://twitter.com/FerdinandOdhis7" target="blank"><img src="https://img.shields.io/twitter/follow/FerdinandOdhis7?logo=twitter&style=for-the-badge" alt="FerdinandOdhis7" /></a> </p>
 
-- 🔭 I’m currently working on **building PointaFam**
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+  
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MeFerdi&show_icons=true" alt="MeFerdi"> </p>
+</div>
 
-- 🌱 I’m currently learning **Golang, Python, Rust and Javascript at Zone01 Kisumu**
-
-- 📝 I  write articles on Web development and tech related subjects
-
-- 💬 Ask me about **C, Linux, Javascript, Python and Go**
-
-- 📫 How to reach me **ferdinandodhis254@gmail.com**
-
-- ⚡ Fun fact **I love travelling**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ferdiodhis7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferdiodhis7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ferdynand-odhiambo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdynand-odhiambo" height="30" width="40" /></a>
-<a href="https://fb.com/ke ferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ke ferdinand" height="30" width="40" /></a>
-<a href="https://medium.com/@ferdinandthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferdinandthedev" height="30" width="40" /></a>
+<p align="center">
+  <img align="middle" src="https://visitor-badge.laobi.icu/badge?page_id=MeFerdi.MeFerdi" alt="Visitors">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a  href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meferdi&show_icons=true&locale=en&layout=compact" alt="meferdi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meferdi&show_icons=true&locale=en" alt="meferdi" /></p>
-
-<!---
-MeFerdi/MeFerdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
