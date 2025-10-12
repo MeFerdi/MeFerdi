@@ -1,10 +1,9 @@
-# 👋 Hello, I'm Ferdynand Odhiambo
+## Hello, I'm Ferdynand Odhiambo
 
-## Backend Software Developer | Scalable Systems | AI & Data Engineering
+### Backend Software Developer
 
 I build robust software products, specializing in **backend engineering**, **distributed systems**, and **database architecture**. With 2+ years of professional experience, I focus on building high-performance, scalable solutions.
-
-My passion is leveraging **Artificial Intelligence** to create innovative solutions that enhance security, automation, and efficiency in complex systems.
+At times i love building tools to automate processes and increase efficiency by leveraging various tools and languages such as **Rust**, **bash** etc.
 
 ---
 
