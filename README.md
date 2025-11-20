@@ -54,4 +54,4 @@ I am actively dedicated to upskilling in high-impact areas, aiming to bridge the
   </p>
 </div>
 
-### Seeking **challenging backend projects** that involve AI, data architecture, and scalable system design. Let's connect!
+###### Seeking **challenging backend projects** that involve AI, data architecture, and scalable system design. Let's connect!
