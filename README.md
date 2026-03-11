@@ -1,57 +1,52 @@
-## Hello, I'm Ferdynand Odhiambo
+# Ferdynand Odhiambo
 
-### Backend Software Developer
+Backend engineer.
 
-I build robust software products, specializing in **backend engineering**, **distributed systems**, and **database architecture**. With 2+ years of professional experience, I focus on building high-performance, scalable solutions.
+I work primarily in Go and Python, building APIs, payment systems, and data pipelines.
+Most of my recent work has been in fintech — Go microservices handling payment event
+processing at Payd HQ, and backend systems for a talent platform at Zone01 Kisumu
+(01 Talent Partner).
 
-At times i love building tools to automate processes and increase efficiency by leveraging various tools and languages such as **Rust**, **bash** etc.
-
----
-
-## Core Expertise
-
-Based on my professional experience, here are my key focus areas:
-
-* **Backend & Scalable Systems:** Designing and building high-performance, scalable APIs and microservices using **Python (Django, FastAPI)** and **Go (Golang)**.
-* **Database Architecture:** Expert in modeling, querying, and optimizing relational databases like **PostgreSQL** for performance and reliability.
-* **AI Integration:** Developing and implementing machine learning models for complex problems, such as designing an **AI-driven talent-matching system** that optimized task allocation.
-* **System Design:** Experienced in designing and implementing distributed systems using tools like **Docker**, **AWS**, and **RabbitMQ**.
+I care about what happens when systems fail: partial writes, retry loops,
+inconsistent state across services. That's where most of the interesting
+engineering work actually is.
 
 ---
 
-## Currently Learning
+## Currently building
 
-I am actively dedicated to upskilling in high-impact areas, aiming to bridge the gap between backend engineering and modern data infrastructure:
+**[PesaFlow](https://github.com/MeFerdi)** — M-Pesa payment integration backend in Go.
+STK Push, C2B callbacks, double-entry ledger, idempotency via Redis.
+The hard part: Safaricom retries callbacks three times. Your handler must
+produce the same result every time.
 
-* **Data Engineering:** Focusing on data pipelines, ETL/ELT processes, and working with large datasets.
-* **Systems & Low-Level Programming:** Deep diving into systems fundamentals to build more performant and resource-efficient applications.
-* **Languages & Tools:** Mastering **Rust** for its performance benefits and expanding proficiency in **Python** for **data analysis** and scientific computing.
+**[Monolith](https://github.com/MeFerdi/monolith)** — Local-first documentation indexer.
+Search across local files, Google Drive, and Notion from one interface.
+No cloud sync. Entirely on your machine.
 
----
-
-## Technologies & Tools
-
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  </p>
-</div>
+**[Tweet Audit](https://github.com/MeFerdi)** — Resumable pipeline for processing
+a full X archive against the Gemini API. Rate-limited, checkpoint-based,
+recovers from mid-run crashes.
 
 ---
 
-<div align="center">
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MeFerdi&show_icons=true" alt="MeFerdi"> </p>
-  <p align="center">
-    <img align="middle" src="https://visitor-badge.laobi.icu/badge?page_id=MeFerdi.MeFerdi" alt="Visitors">
-  </p>
-</div>
+## Stack
+```
+Go · Python · PostgreSQL · Redis · Kafka · Django · FastAPI · Docker · Kubernetes
+```
 
-###### Seeking **challenging backend projects** that involve AI, data architecture, and scalable system design. Let's connect!
+---
+
+## Writing
+
+- [Cache Invalidation: The Silent Performance Killer](https://dev.to/ferdinandodhiambo/cache-invalidation-the-silent-performance-killer-1fl8)
+- [Mastering CORS in Golang](https://dev.to/ferdinandodhiambo/mastering-cors-in-golang-a-comprehensive-guide-25h2)
+
+---
+
+## Reach me
+```
+email     oferdinaddev112@gmail.com
+linkedin  linkedin.com/in/ferdynand-odhiambo
+web       f3rdinand.vercel.app
+```
