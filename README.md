@@ -15,6 +15,8 @@ engineering work actually is.
 
 ## Currently building
 
+**[DePesa](https://depesa.pages.dev)** - A yield protocol bridge that allows users to earn 5-15% APY from Solana stablecoins by depositing to and withdrawing direclty from Solana using M-Pesa
+
 **[PesaFlow](https://github.com/MeFerdi)** — M-Pesa payment integration backend in Go.
 STK Push, C2B callbacks, double-entry ledger, idempotency via Redis.
 The hard part: Safaricom retries callbacks three times. Your handler must
