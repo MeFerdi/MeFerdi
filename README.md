@@ -17,7 +17,7 @@ engineering work actually is.
 
 **[DePesa](https://depesa.pages.dev)** - DePesa helps chamas run contributions and payouts with automatic receipts, fast treasurer visibility, and clear dispute records.
 
-**[PesaFlow](https://github.com/MeFerdi)** — M-Pesa payment integration backend in Go.
+**[PesaFlow](https://github.com/MeFerdi/pesaflow)** — M-Pesa payment integration backend in Go.
 STK Push, C2B callbacks, double-entry ledger, idempotency via Redis.
 The hard part: Safaricom retries callbacks three times. Your handler must
 produce the same result every time.
@@ -26,7 +26,7 @@ produce the same result every time.
 Search across local files, Google Drive, and Notion from one interface.
 No cloud sync. Entirely on your machine.
 
-**[Tweet Audit](https://github.com/MeFerdi)** — Resumable pipeline for processing
+**[Tweet Audit](https://github.com/MeFerdi/twitter-audit)** — Resumable pipeline for processing
 a full X archive against the Gemini API. Rate-limited, checkpoint-based,
 recovers from mid-run crashes.
 
