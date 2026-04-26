@@ -26,7 +26,7 @@ produce the same result every time.
 Search across local files, Google Drive, and Notion from one interface.
 No cloud sync. Entirely on your machine.
 
-**[Tweet Audit](https://github.com/MeFerdi/twitter-audit)** — Resumable pipeline for processing
+**[Tweet Audit](https://github.com/MeFerdi/tweet-audit)** — Resumable pipeline for processing
 a full X archive against the Gemini API. Rate-limited, checkpoint-based,
 recovers from mid-run crashes.
 
