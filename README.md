@@ -7,20 +7,12 @@ Most of my recent work has been in fintech — Go microservices handling payment
 processing at Payd HQ, and backend systems for a talent platform at Zone01 Kisumu
 (01 Talent Partner).
 
-I care about what happens when systems fail: partial writes, retry loops,
-inconsistent state across services. That's where most of the interesting
-engineering work actually is.
 
 ---
 
 ## Currently building
 
 **[DePesa](https://depesa.pages.dev)** - DePesa helps chamas run contributions and payouts with automatic receipts, fast treasurer visibility, and clear dispute records.
-
-**[PesaFlow](https://github.com/MeFerdi/pesaflow)** — M-Pesa payment integration backend in Go.
-STK Push, C2B callbacks, double-entry ledger, idempotency via Redis.
-The hard part: Safaricom retries callbacks three times. Your handler must
-produce the same result every time.
 
 **[Monolith](https://github.com/MeFerdi/monolith)** — Local-first documentation indexer.
 Search across local files, Google Drive, and Notion from one interface.
