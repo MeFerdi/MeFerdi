@@ -8,7 +8,7 @@ Nairobi, Kenya · open to remote roles
 
 ## About
 
-Backend engineer working mainly in Java, Go and Python. I have built and maintained Go and Python services for fintech and talent-management platforms, including payment event processing, transaction workflows and data pipelines. I am completing Product Engineering training at Kood/Nairobi (Java on the backend, TypeScript on the frontend) and working through the 01 Edu curriculum to build the fundamentals properly.
+Backend engineer working mainly in Java, Go and Python. I have built and maintained Go and Python services for fintech and talent-management platforms, including payment event processing, transaction workflows and data pipelines. I am completing Product Engineering training at Kood/Nairobi (Java on the backend, TypeScript on the frontend).
 
 My public work is about one question: how do you know an AI-enabled system behaves? Each project below validates model output, limits what an agent may do, and ships with tests that can fail.
 
