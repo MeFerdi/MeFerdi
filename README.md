@@ -1,79 +1,50 @@
 # Ferdynand Odhiambo
 
-**AI-Native Product Engineer | Backend Systems**
+**Backend Engineer · Java, Go & Python · Testing and reliability of AI-enabled systems**
+
+Nairobi, Kenya · open to remote roles
 
 ---
 
-## Professional Summary
+## About
 
-Product engineer with a background in backend development, based in Nairobi, Kenya. I have built
-and maintained Go and Python services for fintech and talent management platforms, including payment
-event processing, transaction workflows and data pipelines.
+Backend engineer working mainly in Java, Go and Python. I have built and maintained Go and Python services for fintech and talent-management platforms, including payment event processing, transaction workflows and data pipelines. I am completing Product Engineering training at Kood/Nairobi (Java on the backend, TypeScript on the frontend) and working through the 01 Edu curriculum to build the fundamentals properly.
 
-My current work concentrates on integrating large language models into production software. Each
-system I build validates model output against a defined schema, restricts agent actions through an
-explicit permission model, and is measured against a business outcome. I am completing training in
-Product Engineering at Kood/Nairobi, working in Java on the backend and TypeScript on the frontend.
+My public work is about one question: how do you know an AI-enabled system behaves? Each project below validates model output, limits what an agent may do, and ships with tests that can fail.
 
 ---
 
-## Areas of Focus
+## Selected projects
 
-| Area | Scope |
-|---|---|
-| **AI Product Engineering** | LLM agents with permissioned tool access, retrieval with source citations, automated workflows |
-| **AI Reliability and Evaluation** | Schema-validated model output, evaluation datasets in CI, prompt-injection testing |
-| **Backend Systems** | Payment and transaction workflows, event pipelines, queue processing, PostgreSQL performance |
-| **Application Security** | Access control, input handling and protection of personal data in AI-enabled systems |
-
----
-
-## Current Work
-
-| Project | Language | Description |
+| Project | Language | What it is |
 |---|---|---|
-| AI Growth Engineer Pipeline | TypeScript | Outbound sales pipeline that researches leads, assesses fit against an ideal customer profile and drafts outreach for qualifying leads. Queue-based stages with idempotency; all model output validated against a schema. In progress; repository to be published. |
+| [autonomous-qa-agent](https://github.com/MeFerdi/autonomous-qa-agent) | TypeScript | Deterministic Playwright checks find the failure; an AI agent explains it and files a structured bug report. Ships with a mock storefront whose bugs can be switched on, so diagnosis is checked against ground truth. |
+| [rag-knowledge-assistant](https://github.com/MeFerdi/rag-knowledge-assistant) | TypeScript | Question answering with machine-verified citations and an evaluation harness that fails CI when a metric drops. Includes a planted prompt injection to test the defence. |
+| [ai-support-agent](https://github.com/MeFerdi/ai-support-agent) | TypeScript | A support agent that calls backend tools under an explicit read/write permission model: writes wait for customer confirmation and PII is redacted before the model sees it. Runs against mock services; not production-tested. |
+| [tweet-audit](https://github.com/MeFerdi/tweet-audit) | Go | Resumable, rate-limited pipeline that reviews an X archive in batches and recovers from interruption. |
+| [key-value-store](https://github.com/MeFerdi/key-value-store) | Go | Distributed key-value store with a gRPC interface, built to study replication. Raft consensus is stubbed; work in progress. |
+| [http-server](https://github.com/MeFerdi/http-server) | Rust | Single-threaded, non-blocking HTTP/1.1 server on `epoll` and raw POSIX syscalls, with no async runtime or framework. |
+
+Learning in the open: [exercism-java](https://github.com/MeFerdi/exercism-java).
 
 ---
 
-## Selected Projects
+## Stack
 
-| Project | Language | Description |
-|---|---|---|
-| [talent-match](https://github.com/MeFerdi/talent-match) | Python | Automated assignment system using asynchronous workers and an AI scoring model to match talent to tasks. |
-| [tweet-audit](https://github.com/MeFerdi/tweet-audit) | Go | Resumable pipeline that reviews a complete X archive with Gemini in rate-limited batches, with recovery from interruption. |
-| [monolith](https://github.com/MeFerdi/monolith) | Go | Local-first document indexer providing unified search across local files, Google Drive and Notion. Read-only by design. |
-| [http-server](https://github.com/MeFerdi/http-server) | Rust | Single-threaded, non-blocking HTTP/1.1 server built on `epoll` and raw POSIX system calls, without an async runtime or framework. |
-| [key-value-store](https://github.com/MeFerdi/key-value-store) | Go | Replicated key-value store with a gRPC interface, developed to study consensus and cluster membership. |
+```
+Java · Go · Python · TypeScript · PostgreSQL · Redis · Docker · Playwright · GitHub Actions
+```
 
 ---
 
-## Publications
+## Writing
 
-- [Understanding Role-Based Access Control (RBAC) in Authentication](https://dev.to/ferdinandodhiambo/understanding-role-based-access-control-rbac-in-authentication-p7e)
 - [Cache Invalidation: The Silent Performance Killer](https://dev.to/ferdinandodhiambo/cache-invalidation-the-silent-performance-killer-1fl8)
-- [Mastering CORS in Golang: A Comprehensive Guide](https://dev.to/ferdinandodhiambo/mastering-cors-in-golang-a-comprehensive-guide-25h2)
+- [Mastering CORS in Golang](https://dev.to/ferdinandodhiambo/mastering-cors-in-golang-a-comprehensive-guide-25h2)
 - [Bridging the Gap: From axios to gRPC Interceptors in Go](https://dev.to/ferdinandodhiambo/bridging-the-gap-from-axios-to-grpc-interceptors-in-go-3a0m)
-- [Postmortem: A Guide to Learning from Failure](https://dev.to/ferdinandodhiambo/postmortem-a-guide-to-learning-from-failure-1bbm)
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| Languages | Java, TypeScript, Go, Python, Rust, C |
-| AI Engineering | LLM integration (Claude API), tool calling, structured output, retrieval-augmented generation, pgvector, evaluation |
-| Data and Interfaces | PostgreSQL, Redis, Kafka, gRPC, REST |
-| Frontend | React, Next.js |
-| Quality and Delivery | Jest, Playwright, GitHub Actions, Docker, Linux |
 
 ---
 
 ## Contact
 
-| | |
-|---|---|
-| Email | oferdinaddev112@gmail.com |
-| LinkedIn | [linkedin.com/in/ferdynand-odhiambo](https://linkedin.com/in/ferdynand-odhiambo) |
-| Website | [f3rdinand.vercel.app](https://f3rdinand.vercel.app) |
+[linkedin.com/in/ferdynand-odhiambo](https://linkedin.com/in/ferdynand-odhiambo) · [f3rdinand.vercel.app](https://f3rdinand.vercel.app) · oferdinaddev112@gmail.com
